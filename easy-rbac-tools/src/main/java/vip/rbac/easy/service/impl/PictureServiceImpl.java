@@ -8,6 +8,7 @@ import vip.rbac.easy.exception.BadRequestException;
 import vip.rbac.easy.repository.PictureRepository;
 import vip.rbac.easy.service.dto.PictureQueryCriteria;
 import vip.rbac.easy.utils.FileUtil;
+import vip.rbac.easy.utils.GAdminConstant;
 import vip.rbac.easy.utils.PageUtil;
 import vip.rbac.easy.utils.QueryHelp;
 import vip.rbac.easy.utils.ValidationUtil;
