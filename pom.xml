@@ -12,7 +12,7 @@
     <modules>
         <module>easy-rbac-common</module>
         <module>easy-rbac-logging</module>
-        <module>easy-rbac-api</module>
+        <module>easy-rbac-system</module>
         <module>easy-rbac-tools</module>
         <module>easy-rbac-generator</module>
     </modules>
